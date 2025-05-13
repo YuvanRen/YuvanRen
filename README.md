@@ -1,11 +1,12 @@
 # <span style="color: #00ff00">YUVAN RENGIFO</span> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&center=true&vCenter=true&width=435&lines=software+engineer+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&center=true&vCenter=true&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
 <div align="center">
   <a href="http://yuvanrengifo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-2ecc71?style=for-the-badge&logo=stevens&logoColor=white"/>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&center=true&vCenter=true&width=435&lines=software+engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&center=true&vCenter=true&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
 
 ## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">PROFILE</span>
 
