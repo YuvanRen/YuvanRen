@@ -1,5 +1,3 @@
-# <span style="color: #00ff00">Yuvan Rengifo</span> 
-
 <div align="center">
   <a href="http://yuvanrengifo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-2ecc71?style=for-the-badge&logo=stevens&logoColor=white"/>
