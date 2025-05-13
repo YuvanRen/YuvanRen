@@ -35,7 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-rengifo-178925256/)
 
 ---
-
-<div align="center">
-  <sub>© 2025 Yuvan Rengifo. All rights reserved.</sub>
-</div> 
