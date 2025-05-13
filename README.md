@@ -33,7 +33,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white)](http://yuvanrengifo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-rengifo-178925256/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvanRen)
 
 ---
 
