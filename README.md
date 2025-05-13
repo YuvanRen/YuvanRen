@@ -8,13 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&width=435&lines=software+engineer+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&width=435&lines=full+stack+developer)](https://git.io/typing-svg)
 
-## <span style="color: #00ffff"></span> <span style="color: #ff00ff">PROFILE</span>
-
-<div align="center">
-  <span style="color: #00ff00">╔════════════════════════════════════════════════════════════════════════════╗</span><br>
-  <span style="color: #00ff00">║</span> <span style="color: #ff00ff">[</span><span style="color: #00ffff">PROFILE</span><span style="color: #ff00ff">]</span> <span style="color: #ffffff">YUVAN RENGIFO | SOFTWARE ENGINEER | HOBOKEN, NJ</span> <span style="color: #00ff00">║</span><br>
-  <span style="color: #00ff00">╚════════════════════════════════════════════════════════════════════════════╝</span>
-</div>
 
 ## <span style="color: #00ffff"></span> <span style="color: #ff00ff">SKILLS</span>
 
