@@ -16,13 +16,13 @@
 ├─────────────┼─────────────┼─────────────┼─────────────┤
 │    Java     │   React     │   Node.js   │    Git      │
 │   Python    │ React Native│  Express    │   Docker    │
-│ JavaScript  │  TypeScript │ Spring Boot │ Kubernetes  │
+│ JavaScript  │  TypeScript │  MongoDB    │ Kubernetes  │
 │    C/C++    │   HTML5     │  REST API   │   Maven     │
-│     C#      │    CSS      │ PostgreSQL  │  GitHub     │
-│    SQL      │  MapboxGL   │  MongoDB    │  Actions    │
-│  Assembly   │  TensorFlow │  RabbitMQ   │   ELK       │
-│   OCaml     │   AR Kit    │   JWT       │   LSM       │
-│    Rust     │ WebSockets  │  OAuth2     │   GDB       │
+│     C#      │    CSS      │ PostgreSQL  │             │
+│    SQL      │  MapboxGL   │  MongoDB    │             │
+│  Assembly   │  TensorFlow │             │             │
+│   OCaml     │   AR Kit    │             │             │
+│    Rust     │             │             │             │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
