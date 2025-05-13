@@ -1,4 +1,4 @@
-# <span style="color: #00ff00">YUVAN RENGIFO</span> 
+# <span style="color: #00ff00">Yuvan Rengifo</span> 
 
 <div align="center">
   <a href="http://yuvanrengifo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white"/></a>
