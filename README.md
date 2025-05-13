@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-2ecc71?style=for-the-badge&logo=stevens&logoColor=white"/>
 </div>
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">PROFILE_INIT</span>
+## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">PROFILE</span>
 
 <div align="center">
   <span style="color: #00ff00">╔════════════════════════════════════════════════════════════════════════════╗</span><br>
@@ -13,7 +13,7 @@
   <span style="color: #00ff00">╚════════════════════════════════════════════════════════════════════════════╝</span>
 </div>
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">SKILLS_MATRIX</span>
+## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">SKILLS</span>
 
 ```ascii
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
@@ -31,13 +31,14 @@
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONTACT_NET</span>
+## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONTACT</span>
 
 - **Email:** yrengifo@stevens.edu
 - **Location:** Hoboken, NJ
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONNECT_PORT</span>
+## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONNECT</span>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white)](http://yuvanrengifo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuvanRengifo)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvanRen)
 
