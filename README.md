@@ -2,16 +2,14 @@
 ## <span style="color: #ff00ff">SOFTWARE ENGINEER | FULL STACK DEVELOPER</span>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-00ff00?style=for-the-badge&logo=stevens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-2ecc71?style=for-the-badge&logo=stevens&logoColor=white"/>
 </div>
 
 ## <span style="color: #00ffff">// ABOUT_ME.exe</span>
 
 <div align="center">
   <span style="color: #00ff00">╔════════════════════════════════════════════════════════════════════════════╗</span><br>
-  <span style="color: #00ff00">║</span> <span style="color: #ff00ff">[</span><span style="color: #00ffff">SYSTEM</span><span style="color: #ff00ff">]</span> <span style="color: #ffffff">INITIALIZING USER PROFILE: YUVAN RENGIFO</span> <span style="color: #00ff00">║</span><br>
-  <span style="color: #00ff00">║</span> <span style="color: #ff00ff">[</span><span style="color: #00ffff">STATUS</span><span style="color: #ff00ff">]</span> <span style="color: #ffffff">SOFTWARE ENGINEER | FULL STACK DEVELOPER</span> <span style="color: #00ff00">║</span><br>
-  <span style="color: #00ff00">║</span> <span style="color: #ff00ff">[</span><span style="color: #00ffff">LOCATION</span><span style="color: #ff00ff">]</span> <span style="color: #ffffff">HOBOKEN, NJ</span> <span style="color: #00ff00">║</span><br>
+  <span style="color: #00ff00">║</span> <span style="color: #ff00ff">[</span><span style="color: #00ffff">PROFILE</span><span style="color: #ff00ff">]</span> <span style="color: #ffffff">YUVAN RENGIFO | SOFTWARE ENGINEER | HOBOKEN, NJ</span> <span style="color: #00ff00">║</span><br>
   <span style="color: #00ff00">╚════════════════════════════════════════════════════════════════════════════╝</span>
 </div>
 
