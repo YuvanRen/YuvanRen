@@ -14,15 +14,15 @@
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
 │  Languages  │  Frontend   │  Backend    │   DevOps    │
 ├─────────────┼─────────────┼─────────────┼─────────────┤
-│    Java     │   HTML5     │   Node.js   │    Git      │
-│   Python    │    CSS      │  REST API   │   Docker    │
-│ JavaScript  │             │ PostgreSQL  │   Maven     │
-│    C/C++    │             │             │             │
-│     C#      │             │             │             │
-│    SQL      │             │             │             │
-│  Assembly   │             │             │             │
-│   OCaml     │             │             │             │
-│    Rust     │             │             │             │
+│    Java     │   React     │   Node.js   │    Git      │
+│   Python    │ React Native│  Express    │   Docker    │
+│ JavaScript  │  TypeScript │ Spring Boot │ Kubernetes  │
+│    C/C++    │   HTML5     │  REST API   │   Maven     │
+│     C#      │    CSS      │ PostgreSQL  │  GitHub     │
+│    SQL      │  MapboxGL   │  MongoDB    │  Actions    │
+│  Assembly   │  TensorFlow │  RabbitMQ   │   ELK       │
+│   OCaml     │   AR Kit    │   JWT       │   LSM       │
+│    Rust     │ WebSockets  │  OAuth2     │   GDB       │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
