@@ -15,47 +15,7 @@
 
 > *"In the neon-lit streets of code, I forge digital realities"*
 
-## <span style="color: #ff00ff">// EDUCATION.sys</span>
-
-- **Stevens Institute of Technology** | Hoboken, NJ
-  - BS in Computer Science (Expected May 2026)
-  - **Relevant Courses:**
-    - Data Structures & Algorithms
-    - Computer Architecture and Org
-    - Agile Software Development
-    - Operating Systems
-    - DevOps Practices
-    - System Programming
-    - Database Management Systems
-    - Web Programming
-    - Enterprise Software Architecture
-
-## <span style="color: #00ffff">// EXPERIENCE.dat</span>
-
-- **Software Engineer Intern** @ Genforce-SW Automation
-  - Aug 2024 - Mar 2025
-  - Product Manager focus
-  - *"Where automation meets innovation"*
-  - Developed .NET application for solar panel project automation
-  - Implemented material extraction and cost calculation systems
-  - Created real-time pricing wizard integration
-  - Managed project timeline and team progress
-
-## <span style="color: #ff00ff">// PROJECTS.matrix</span>
-
-### Microservices-Based Medical Clinic Application
-- Developed modular clinic application using Java, Payara Micro, Docker, and Maven
-- Implemented microservices architecture with database isolation
-- Created secure REST APIs with PostgreSQL integration
-- Containerized deployment for scalable infrastructure
-
-### UCNow – Crime Analysis Web Application
-- Led development of full-stack web application for NYC crime data analysis
-- Integrated NYC Open Data API for verified crime data
-- Implemented user-submitted report functionality
-- Managed sprint planning and architectural documentation
-
-## <span style="color: #00ffff">// SKILLS.matrix</span>
+## <span style="color: #ff00ff">// SKILLS.matrix</span>
 
 ```ascii
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
@@ -72,12 +32,6 @@
 │    Rust     │             │             │             │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
-
-## <span style="color: #ff00ff">// EXTRACURRICULARS.sys</span>
-
-- **Stevens Technical Enrichment Program** (June 2021 - Present)
-- **Society of Hispanic Professional Engineers** (September 2022 - Present)
-- **IBM DevOps and Software Engineering Certificate** (September 2024 - Present)
 
 ## <span style="color: #00ffff">// CONTACT.net</span>
 
