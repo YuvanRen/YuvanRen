@@ -1,7 +1,11 @@
 # <span style="color: #00ff00">YUVAN RENGIFO</span> 
-## <span style="color: #ff00ff">SOFTWARE ENGINEER | FULL STACK DEVELOPER</span>
 
 <div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=600&height=100&lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+  <a href="http://yuvanrengifo.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Stevens%20Institute%20of%20Technology-Student%20'26-2ecc71?style=for-the-badge&logo=stevens&logoColor=white"/>
 </div>
 
