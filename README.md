@@ -8,8 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&width=435&lines=SOFTWARE+ENGINEER+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=419BF7&width=435&lines=FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
 
-
-## <span style="color: #00ffff"></span> <span style="color: #ff00ff">SKILLS</span>
+## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">SKILLS</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
 
 ```ascii
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
@@ -27,12 +26,12 @@
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
-## <span style="color: #00ffff"></span> <span style="color: #ff00ff">CONTACT</span>
+## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">CONTACT</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
 
 - **Email:** yrengifo@stevens.edu
 - **Location:** Hoboken, NJ
 
-## <span style="color: #00ffff"></span> <span style="color: #ff00ff">CONNECT</span>
+## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">CONNECT</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white)](http://yuvanrengifo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuvanRengifo)
