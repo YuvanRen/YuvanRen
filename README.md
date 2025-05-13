@@ -13,7 +13,7 @@
   <span style="color: #00ff00">╚════════════════════════════════════════════════════════════════════════════╝</span>
 </div>
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">SKILLS</span>
+## <span style="color: #00ffff"></span> <span style="color: #ff00ff">SKILLS</span>
 
 ```ascii
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
@@ -31,12 +31,12 @@
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONTACT</span>
+## <span style="color: #00ffff"></span> <span style="color: #ff00ff">CONTACT</span>
 
 - **Email:** yrengifo@stevens.edu
 - **Location:** Hoboken, NJ
 
-## <span style="color: #00ffff">[SYSTEM]</span> <span style="color: #ff00ff">CONNECT</span>
+## <span style="color: #00ffff"></span> <span style="color: #ff00ff">CONNECT</span>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white)](http://yuvanrengifo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuvanRengifo)
