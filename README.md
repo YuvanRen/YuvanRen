@@ -1,7 +1,6 @@
 # <span style="color: #00ff00">YUVAN RENGIFO</span> 
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SOFTWARE+ENGINEER+%7C+FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
