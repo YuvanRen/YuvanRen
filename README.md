@@ -32,7 +32,7 @@
 ## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">CONNECT</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ecc71?style=for-the-badge&logo=globe&logoColor=white)](http://yuvanrengifo.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YuvanRengifo](https://www.linkedin.com/in/yuvan-rengifo-178925256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ecc71?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuvanRengifo](https://www.linkedin.com/in/yuvan-rengifo-178925256/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvanRen)
 
 ---
