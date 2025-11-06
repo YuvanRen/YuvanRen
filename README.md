@@ -16,11 +16,10 @@
 │   Python    │ React Native│  Express    │   Docker    │
 │ JavaScript  │  TypeScript │  MongoDB    │ Kubernetes  │
 │    C/C++    │   HTML5     │  REST API   │   Maven     │
-│     C#      │    CSS      │ PostgreSQL  │             │
-│    SQL      │  MapboxGL   │  MongoDB    │             │
-│  Assembly   │  TensorFlow │             │             │
-│   OCaml     │   AR Kit    │             │             │
-│    Rust     │             │             │             │
+│     C#      │    CSS      │ PostgreSQL  │    AWS      │
+│     SQL     │             │  MongoDB    │   Redis     │
+│             │             │    .NET     │   CI/CD     │
+│             │             │             │             │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
 
