@@ -25,7 +25,7 @@
 
 ## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">CONTACT</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
 
-- **Email:** yrengifo@stevens.edu
+- **Email:** yuvan.rengifo@gmail.com
 - **Location:** Hoboken, NJ
 
 ## <span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">[</span><span style="font-family: 'JetBrains Mono', monospace; color: #ff00ff">CONNECT</span><span style="font-family: 'JetBrains Mono', monospace; color: #00ffff">]</span>
