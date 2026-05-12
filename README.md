@@ -17,8 +17,8 @@
 │ JavaScript  │  TypeScript │  MongoDB    │ Kubernetes  │
 │    C/C++    │   HTML5     │  REST API   │   Maven     │
 │     C#      │    CSS      │ PostgreSQL  │    AWS      │
-│     SQL     │             │  MongoDB    │   Redis     │
-│             │             │    .NET     │   CI/CD     │
+│     SQL     │             │   .NET      │   Redis     │
+│             │             │             │   CI/CD     │
 │             │             │             │             │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 ```
